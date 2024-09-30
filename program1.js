@@ -34,6 +34,6 @@ var isValid = function(s) {
 
     // If the stack is empty, all opening brackets have been matched
     return stack.length === 0;
-};
+};i
 
 module.exports = { isValid };
